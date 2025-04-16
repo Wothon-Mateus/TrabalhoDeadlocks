@@ -75,7 +75,7 @@ A matriz `maximum` seria inicializada com os valores no arquivo `maximum.txt`.
 
 O repositório conta com um arquivo `Makefile` para auxiliar na compilação.
 
-Execute o comando `make` para compilar o código.
+Execute o comando `make` para compilar o código..
 
 A pasta `src` contém o código fonte e o executável é armazenado na pasta `bin`.
 
