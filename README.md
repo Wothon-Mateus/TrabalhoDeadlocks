@@ -24,7 +24,7 @@ typedef struct bank {
   int *available;         // quantidade de recursos disponível
   int **maximum;          // alocação máquina por recurso para cada processo
   int **allocation;       // alocação atual de recursos a cada processo
-  int **need;             // necessidade de recurso por cada processo
+  int **need;             // necessidade de recurso por cada processoo
   pthread_mutex_t mut;    // mutex para controle de concorrência
 } bank;
 ```
