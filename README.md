@@ -77,7 +77,7 @@ O repositório conta com um arquivo `Makefile` para auxiliar na compilação.
 
 Execute o comando `make` para compilar o código..
 
-A pasta `src` contém o código fonte e o executável é armazenado na pasta `bin`.
+A pasta `src` contém o código fonte e o executável é armazenado  na pasta `bin`.
 
 O comando `make clean` remove as pastas dos binários.
 
