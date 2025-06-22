@@ -3,7 +3,7 @@
 
 Nesse projeto, você escreverá um programa multithreaded que implemente o algoritmo do banqueiro discutido na Seção 7.5.3 do livro-texto.
 
-Vários processos (processos) solicitam e liberam recursos do banco.
+Vários processos (processos)  solicitam e liberam recursos do banco.
 O banqueiro atenderá uma solicitação somente se ela deixar o sistema em um estado seguro. 
 Uma solicitação que deixe o sistema em um estado inseguro será negada. 
 Essa tarefa de programação combina três tópicos diferentes: 
