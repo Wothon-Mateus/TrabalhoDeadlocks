@@ -9,7 +9,7 @@ Uma solicitação que deixe o sistema em um estado inseguro será negada.
 Essa tarefa de programação combina três tópicos diferentes: 
 1. criar múltiplos threads;
 2. prevenir condições de corrida; e 
-3. evitar deadlocks.
+3.  evitar deadlocks.
 
 ## O Banqueiro
 
