@@ -11,7 +11,7 @@ Essa tarefa de programação combina três tópicos diferentes:
 2. prevenir condições de corrida; e 
 3.  evitar deadlocks.
 
-## O Banqueiro
+## O BanqueiroBanqueiro
 
 O banqueiro considerará solicitações de _p_ processos por _r_ tipos de recursos, como descrito na Seção 7.5.3. 
 Os métodos definidos para o banqueiro estão definidos no arquivo de cabeçalho `bank.h`.
